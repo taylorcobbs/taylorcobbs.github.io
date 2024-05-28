@@ -1,4 +1,4 @@
-lakers_data <- read.csv("Lakers_Data_Number.csv")
+lakers_data <- read.csv("Lakers_Data_Final.csv")
 
 head(lakers_data)
 
