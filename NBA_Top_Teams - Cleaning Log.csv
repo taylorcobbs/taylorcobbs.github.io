@@ -1,0 +1,4 @@
+Data Cleaning Log
+5/21/2024 9:15pm - Removed players no longer on payroll from either contract release or trade to another team. Removed 41 rows.
+5/21/2024 9:53pm - Removed one row of salary not meeting correct number of digits.
+5/23/2024 9:34pm - Made new sheet by transfering top 8 players ranked in minutes to another sheet.
